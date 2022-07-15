@@ -15,3 +15,4 @@ st.subheader('Introducing Streamlit, which is LIT')
 st.write('This is our first web app.  And its in python')
 
 st.write(df)
+st.line_chart(df)
