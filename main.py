@@ -11,8 +11,8 @@ df = pandas.DataFrame(data)
 
 
 st.title('This is Streamlit, baby')
-st.subheader('Introducing Streamlit, which is LIT')
-st.write('This is our first web app.  And its in python')
+st.subheader('Introducing Tools, which is LIT')
+st.write('These streamlit apps should be OBS overlays and plugins')
 
 st.write(df)
 st.line_chart(df)
